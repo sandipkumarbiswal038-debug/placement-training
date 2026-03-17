@@ -6,3 +6,8 @@ if no<0:
 if 9<no<100:
 	print("2 digit number")
 
+"""
+enter number
+23
+2 digit number
+"""
